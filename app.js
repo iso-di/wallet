@@ -10,28 +10,13 @@ const discountCards = [
     },
     {
         id: 2,
-        name: "Перекрёсток",
-        image: "cards/sam.jpg",
-        number: "993 902 470 429 2",
+        name: "EconomClass",
+        image: "cards/econom.jpg",
+        number: "2700009069388",
         barcodeType: "code128",
-        color: "#00A650"
+        color: "#fffa00"
     },
-    {
-        id: 3,
-        name: "Магнит",
-        image: "cards/magnit.jpg",
-        number: "5678901234567",
-        barcodeType: "code128",
-        color: "#E30613"
-    },
-    {
-        id: 4,
-        name: "Пятёрочка",
-        image: "cards/pyaterochka.jpg",
-        number: "3210987654321",
-        barcodeType: "code128",
-        color: "#FFD700"
-    }
+
 ];
 
 // DOM элементы
