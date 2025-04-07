@@ -4,7 +4,7 @@ const discountCards = [
         id: 1,
         name: "Сам Маркет",
         image: "cards/sam.jpg",
-        number: "9339024704292",
+        number: "933 902 470 429 2",
         barcodeType: "code128",
         color: "#DF2A2A"
     },
@@ -12,7 +12,7 @@ const discountCards = [
         id: 2,
         name: "EconomClass",
         image: "cards/econom.jpg",
-        number: "2700009069388",
+        number: "2 700 009 069 388",
         barcodeType: "code128",
         color: "#fffa00"
     },
