@@ -2,7 +2,7 @@
     "name": "Discount Wallet",
     "short_name": "Discount Wallet",
     "description": "Ваши скидочные карты всегда под рукой",
-    "start_url": "/index.html",
+    "start_url": "/wallet/index.html",
     "display": "standalone",
     "background_color": "#FFFFFF",
     "theme_color": "#FFFFFF",
